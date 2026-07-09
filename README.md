@@ -1,7 +1,7 @@
 <div align="center">
 
 # Full Stack Developer
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=006400&height=150&section=header&text=Kiry%20Ratanak&fontSize=40)
+![Banner](https://media.istockphoto.com/id/1503858430/vector/website-software-development-concept-web-design-site-and-mobile-app-on-laptop-testing-on.jpg?s=612x612&w=0&k=20&c=k8ckKsgOrPPxohAA_ywg2VXZzdCPptEbOlleRV8Kb7c=)
 
 </div>
 
@@ -37,7 +37,7 @@ Content-Type: application/json
 | Frontend | Backend | Tools |
 | :--- | :--- | :--- |
 | 🌐 HTML5, CSS3 | ⚙️ C++, Java | 🛠 Git, GitHub |
-| ⚡ JavaScript | 🍃 Spring Boot | 🐳 Docker |
+| ⚡ JavaScript | 🍃  Spring Boot | 🐳 Docker |
 
 ## My GitHub Stats
 <div align="center">
